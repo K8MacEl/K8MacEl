@@ -21,20 +21,38 @@
         <tr>
             <td>
                 <img src="assets/skills/sql.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/python.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/javascript.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/figma.png" width="75"> </img>
             </td>
             <td>
                 <img src="assets/skills/css3.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/aws.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/express-js.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/react.png" width="75"> </img>
             </td>
             <td>
                 <img src="assets/skills/node.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/mongodb.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/aws.png" width="75"> </img>
+            </td>
+            <td>
                 <img src="assets/skills/wordpress.png" width="75"> </img>
             </td>
     </table>
