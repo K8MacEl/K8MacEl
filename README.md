@@ -1,4 +1,4 @@
-![](assets/header-logo.PNG)
+<img src="assets/header-logo.png"></img>
 <br><br>
 <h1 align="center">Kate McElhaney</h1>
 <div align="center">
