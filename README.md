@@ -37,6 +37,7 @@
             <td>
                 <img src="assets/skills/aws.png" width="75"> </img>
             </td>
+        <tr>
             <td>
                 <img src="assets/skills/express-js.png" width="75"> </img>
             </td>
@@ -55,5 +56,6 @@
             <td>
                 <img src="assets/skills/wordpress.png" width="75"> </img>
             </td>
+        </tr>
     </table>
  
