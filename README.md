@@ -16,8 +16,8 @@
 - HTML/CSS/JavaScript/Google Site Project-Miluk
 </h4>
 
-<h2 align="center">Technical Skills:</h2>
-    <table bordercolor="#8FD0E3">
+<h3 align="center">Technical Skills:</h3>
+    <table bordercolor="#8FD0E3" align="center">
         <tr>
             <td>
                 <img src="assets/skills/sql.png" width="75"> </img>
